@@ -14,6 +14,7 @@ qsqsqs
 dev
 wwwc
 wew
+<<<<<<< HEAD
 ÐÂÔö
 2
 3
@@ -25,3 +26,4 @@ wew
 master
 dev
 12345
+789
